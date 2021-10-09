@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/yumaojun03/dmidecode/smbios"
+	"github.com/mmsoon/dmidecode/smbios"
 )
 
 // Information 设备信息 (smbios < 2.6)

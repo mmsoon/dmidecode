@@ -1,7 +1,7 @@
 package baseboard
 
 import (
-	"github.com/yumaojun03/dmidecode/smbios"
+	"github.com/mmsoon/dmidecode/smbios"
 )
 
 // Parse 解析

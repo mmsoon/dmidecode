@@ -5,17 +5,17 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/yumaojun03/dmidecode/parser/baseboard"
-	"github.com/yumaojun03/dmidecode/parser/battery"
-	"github.com/yumaojun03/dmidecode/parser/bios"
-	"github.com/yumaojun03/dmidecode/parser/chassis"
-	"github.com/yumaojun03/dmidecode/parser/memory"
-	"github.com/yumaojun03/dmidecode/parser/oem"
-	"github.com/yumaojun03/dmidecode/parser/onboard"
-	"github.com/yumaojun03/dmidecode/parser/port"
-	"github.com/yumaojun03/dmidecode/parser/processor"
-	"github.com/yumaojun03/dmidecode/parser/slot"
-	"github.com/yumaojun03/dmidecode/parser/system"
+	"github.com/mmsoon/dmidecode/parser/baseboard"
+	"github.com/mmsoon/dmidecode/parser/battery"
+	"github.com/mmsoon/dmidecode/parser/bios"
+	"github.com/mmsoon/dmidecode/parser/chassis"
+	"github.com/mmsoon/dmidecode/parser/memory"
+	"github.com/mmsoon/dmidecode/parser/oem"
+	"github.com/mmsoon/dmidecode/parser/onboard"
+	"github.com/mmsoon/dmidecode/parser/port"
+	"github.com/mmsoon/dmidecode/parser/processor"
+	"github.com/mmsoon/dmidecode/parser/slot"
+	"github.com/mmsoon/dmidecode/parser/system"
 )
 
 // NewInformationSet todo

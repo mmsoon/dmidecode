@@ -3,7 +3,7 @@ package onboard
 import (
 	"fmt"
 
-	"github.com/yumaojun03/dmidecode/smbios"
+	"github.com/mmsoon/dmidecode/smbios"
 )
 
 // ParseType41 解析

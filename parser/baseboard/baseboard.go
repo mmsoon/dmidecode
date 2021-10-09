@@ -3,7 +3,7 @@ package baseboard
 import (
 	"fmt"
 
-	"github.com/yumaojun03/dmidecode/smbios"
+	"github.com/mmsoon/dmidecode/smbios"
 )
 
 // Information 主板信息
